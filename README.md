@@ -11,7 +11,7 @@ Server side rendering & server side generation.
 
 ```bash
 npm install
-#
+#then
 npm run dev
 ```
 
