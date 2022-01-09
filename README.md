@@ -1,6 +1,8 @@
 # Philips NextJS Pokedex
 Pokedex utilizing NextJS & TailwindCSS! 
+
 getStaticProps + getServerSideProps! 
+
 Server side rendering & server side generation.
 
 
