@@ -4,7 +4,6 @@ import Link from 'next/Link'
 
 
 export default function Home({pokemon}) {
-  console.log(pokemon)
 
   return (
     <Layout title= "Philips NextJS Pokedex">
