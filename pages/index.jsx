@@ -7,7 +7,7 @@ export default function Home({pokemon}) {
   return (
     <Layout title= "Philips NextJS Pokedex">
 
-        <h1 className='text-4xl mb-8 text-center text-white'>
+        <h1 className='text-4xl mb-8 text-center text-amber-100'>
           Philips NextJS Pokedex!
         </h1>
         <ul>
